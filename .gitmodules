@@ -1,0 +1,3 @@
+[submodule "gazebo_simulation"]
+	path = gazebo_simulation
+	url = https://github.com/RealManRobot/URDF-to-XACRO.git
